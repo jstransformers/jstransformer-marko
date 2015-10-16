@@ -12,7 +12,7 @@
   "dependencies": {
     "eval": "^0.1.0",
     "marko": "^2.5.1",
-    "promise": "^7.0.1"
+    "promise": "^7.0.4"
   },
   "devDependencies": {
     "test-jstransformer": "^1.0.0"
