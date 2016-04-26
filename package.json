@@ -1,6 +1,6 @@
 {
   "name": "jstransformer-marko",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Marko support for JSTransformers.",
   "keywords": [
     "jstransformer",
