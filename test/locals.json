@@ -1,3 +1,8 @@
 {
-  "name": "World"
+  "name": "World",
+  "colors": [
+    "Blue",
+    "White",
+    "Red"
+  ]
 }
