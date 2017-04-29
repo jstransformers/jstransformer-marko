@@ -11,12 +11,12 @@
   ],
   "dependencies": {
     "eval": "^0.1.0",
-    "marko": "^3.1.7",
+    "marko": "^4.2.8",
     "promise": "^7.0.4"
   },
   "devDependencies": {
     "test-jstransformer": "^1.0.0",
-    "xo": "^0.17.1"
+    "xo": "^0.18.1"
   },
   "scripts": {
     "coverage": "test-jstransformer coverage",
