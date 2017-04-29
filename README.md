@@ -1,5 +1,7 @@
 # jstransformer-marko
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/jstransformers/jstransformer-marko.svg)](https://greenkeeper.io/)
+
 [Marko](http://npm.im/marko) support for [JSTransformers](http://github.com/jstransformers).
 
 [![Build Status](https://img.shields.io/travis/jstransformers/jstransformer-marko/master.svg)](https://travis-ci.org/jstransformers/jstransformer-marko)
