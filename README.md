@@ -15,11 +15,11 @@
 ## API
 
 ```js
-var marko = require('jstransformer')(require('jstransformer-marko'));
+var marko = require('jstransformer')(require('jstransformer-marko'))
 
 var locals = {
   name: "World"
-};
+}
 
 marko.render('Hello, ${data.name}!', locals).body
 //=> 'Hello, World!'
