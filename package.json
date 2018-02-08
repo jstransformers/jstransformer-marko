@@ -1,6 +1,6 @@
 {
   "name": "jstransformer-marko",
-  "version": "0.1.0",
+  "version": "1.0.1",
   "description": "Marko support for JSTransformers.",
   "keywords": [
     "jstransformer",
@@ -10,7 +10,7 @@
     "index.js"
   ],
   "dependencies": {
-    "marko": "^4.4.9"
+    "marko": "^4.7.5"
   },
   "devDependencies": {
     "test-jstransformer": "^1.0.0",

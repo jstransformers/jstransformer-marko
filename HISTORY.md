@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.0.1: 2018-02-08
+
+- Update Boilerplate
+
 ## v1.0.0: 2017-06-08
 
 - Update to `marko@^4.4.9`
