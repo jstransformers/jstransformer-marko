@@ -7,6 +7,7 @@
 [![Build Status](https://img.shields.io/travis/jstransformers/jstransformer-marko/master.svg)](https://travis-ci.org/jstransformers/jstransformer-marko)
 [![Coverage Status](https://img.shields.io/codecov/c/github/jstransformers/jstransformer-marko/master.svg)](https://codecov.io/gh/jstransformers/jstransformer-marko)
 [![Dependency Status](https://img.shields.io/david/jstransformers/jstransformer-marko/master.svg)](http://david-dm.org/jstransformers/jstransformer-marko)
+[![Greenkeeper badge](https://badges.greenkeeper.io/jstransformers/jstransformer-marko.svg)](https://greenkeeper.io/)
 [![NPM version](https://img.shields.io/npm/v/jstransformer-marko.svg)](https://www.npmjs.org/package/jstransformer-marko)
 
 ## Installation
@@ -16,11 +17,11 @@
 ## API
 
 ```js
-var marko = require('jstransformer')(require('jstransformer-marko'));
+var marko = require('jstransformer')(require('jstransformer-marko'))
 
 var locals = {
   name: "World"
-};
+}
 
 marko.render('Hello, ${data.name}!', locals).body
 //=> 'Hello, World!'
