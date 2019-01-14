@@ -22,6 +22,7 @@ exports.compileFileAsync = (file, options) => {
     if (!template) {
       return reject(new Error('Failed to load template.'))
     }
+
     return resolve(locals => {
       return template.renderToString(locals || {})
     })
